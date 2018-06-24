@@ -1,5 +1,5 @@
 # tensorflowjs-digitrecognizer
-A simple digit recognizer made with HTML 5 canvas with pure javascript and tensorflow js 
+A simple digit recognizer made with an HTML 5 canvas and tensorflowjs 
 
 # How to run
 
