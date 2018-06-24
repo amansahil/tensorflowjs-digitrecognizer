@@ -7,6 +7,8 @@ If you are not running it on a server/loclhost open index.html in firefox. Other
 
 If you are running on a server go crazy and open it on any browser
 
+<b>PS : Code runs better when running on a server enviroment</b>
+
 # What you get
 
 <img width="1440" alt="screen shot 2018-06-24 at 9 53 10 pm" src="https://user-images.githubusercontent.com/33552991/41821988-001a1790-77fa-11e8-9d1d-295725dd2352.png">
