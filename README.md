@@ -5,9 +5,9 @@ A simple digit recognizer made with an HTML 5 canvas and tensorflowjs
 
 If you are not running it on a server/loclhost open index.html in firefox. Other browsers aren't supported with the tensorflow js api because security reasons.
 
-If you are running on a server go crazy and open it on any browser
+If you are running it on a host go crazy and open it on any browser
 
-<b>PS : Code runs better when running on a server enviroment</b>
+<b>PS : I recommend running it on node / wamp or something that'll put it on a localhost / host</b>
 
 # What you get
 
