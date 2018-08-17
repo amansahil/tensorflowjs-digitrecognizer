@@ -7,8 +7,6 @@ If you are not running it on a server/loclhost open index.html in firefox. Other
 
 If you are running it on a host go crazy and open it on any browser
 
-<b>PS : I recommend running it on node / wamp or something that'll put it on a localhost / host</b>
-
 # Model
 
 Kerad Model by anudeepsekhar, check it out here: https://github.com/anudeepsekhar/Workshops/blob/master/ML%20Workshop/digit_recognizer_keras.py
