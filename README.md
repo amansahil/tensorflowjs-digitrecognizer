@@ -3,9 +3,9 @@ A simple digit recognizer made with an HTML 5 canvas and tensorflowjs
 
 # How to run
 
-If you are not running it on a server/loclhost open index.html in firefox. Other browsers aren't supported with the tensorflow js api because security reasons.
+If you are not running it on loclhost open index.html in firefox. Other browsers aren't supported with the tensorflow js api because security reasons.
 
-If you are running it on a host go crazy and open it on any browser
+If you are running it on loclhost go crazy and open it on any browser
 
 # Model
 
