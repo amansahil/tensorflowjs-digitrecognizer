@@ -9,7 +9,7 @@ If you are running it on a host go crazy and open it on any browser
 
 # Model
 
-Kerad Model by anudeepsekhar, check it out here: https://github.com/anudeepsekhar/Workshops/blob/master/ML%20Workshop/digit_recognizer_keras.py
+Kerad Model by my friend anudeepsekhar, check it out here: https://github.com/anudeepsekhar/Workshops/blob/master/ML%20Workshop/digit_recognizer_keras.py
 
 # What you get
 
